@@ -4,10 +4,12 @@ p{
 color:pink;
 font-family:monospace;
 font-size:large;
+    text-align:center;
 }
 
 h1{
 font-family:Lobster;
+    text-align:center;
 }
 
 :root {
