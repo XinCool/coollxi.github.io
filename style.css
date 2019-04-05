@@ -12,6 +12,10 @@ font-family:Lobster;
     text-align:center;
 }
 
+body{
+    text-align:center;
+}
+
 :root {
     --penguin-size: 300px;
     --penguin-skin: gray;
