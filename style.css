@@ -10,14 +10,18 @@ h1{
     font-family:Lobster;
     text-align:center;
     font-size:larger;
-    color:white;
+    font-weight:bolder;
     padding:2.4em;
    
 }
 
+h1:hover{
+    transform:scale(1.5);
+}
+
 body{
     font-family:Lobster;
-    background: linear-gradient(90deg, red,yellow, hsl(100, 100%, 80%));
+    background: linear-gradient(45deg,teal,cyan, white);
 }
 
 button{
@@ -28,6 +32,10 @@ div{
     height:100px;
     weight:100px;
     margin:auto;
+}
+
+div.box{
+    box-shodow:0 10px 20px rgba(0,0,0,0.19),0 6px 6px rgba(0,0,0,0.23);
 }
 
 #left{
