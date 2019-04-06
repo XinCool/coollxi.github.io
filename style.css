@@ -1,7 +1,7 @@
 
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 p{
-color:pink;
+backgroud-color:pink;
 font-family:monospace;
 
 }
@@ -34,11 +34,11 @@ div{
 
 ul {
     font-family:monospace;
-    background-color:rgba(0,0,0,0.1);
+    background-color:rgba(0,0,0,0.3);
 } 
 
 li {
-    
+    backgroud-color:pink;
 }
 
 a {
@@ -59,24 +59,24 @@ a {
 
 
 .cyan-block{
-    background-color:#00FFFF;
+    background-color:#00FFF0;
     z-index:2;
      
     
 }
 
 .orange-block{
-    background-color:orange;
+    background-color:#FFF7F0;
    
   
 }
 
 .casual-block{
-    background-color:rgba(0,0,0,0.1);
+    background-color:rgba(0,0,50,0.1);
     
 }
 
 .casual-block2{
-    background-color:rgba(100,0,0,0.2);
+    background-color:rgba(100,100,0,0.2);
    z-index:1;
 }
