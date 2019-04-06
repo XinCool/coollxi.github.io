@@ -10,13 +10,14 @@ h1{
 font-family:Lobster;
     text-align:center;
     font-size:large;
-    color:rgb(100,50,200);
+    color:white;
     padding:2.4em;
+    background-color:teal;
 }
 
 body{
     font-family:Lobster;
-    color:pink;
+    color:grey;
 }
 
 button{
@@ -66,20 +67,20 @@ a {
 
 
 .cyan-block{
-    background-color:#0000F0;
+    background-color:cyan;
     z-index:2;
      
     
 }
 
 .orange-block{
-    background-color:#FF0F00;
+    background-color:orange;
    
   
 }
 
 .casual-block{
-    background-color:rgba(0,0,200,0.1);
+    background-color:rgba(0,0,100,0.1);
     
 }
 
