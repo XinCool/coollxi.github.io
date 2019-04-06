@@ -1,18 +1,18 @@
 
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 p{
-backgroud-color:teal;
+
 font-family:monospace;
 
 }
 
 h1{
-font-family:Lobster;
+    font-family:Lobster;
     text-align:center;
-    font-size:large;
+    font-size:larger;
     color:white;
     padding:2.4em;
-    background-color: hsl(180, 90%, 35%);
+   
 }
 
 body{
