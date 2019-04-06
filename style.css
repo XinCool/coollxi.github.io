@@ -11,12 +11,18 @@ font-family:Lobster;
     text-align:center;
     font-size:large;
     color:rgb(100,50,200);
+    padding:2.4em;
 }
 
 body{
-    
+    font-family:Lobster;
+    color:pink;
 }
- 
+
+button{
+    background-color:yellow;
+}
+
 div{
     height:100px;
     weight:100px;
@@ -77,7 +83,7 @@ a {
     
 }
 
-.casual-block2{
-    background-color:rgba(100,100,0,0.2);
+.teal-block{
+    background-color:teal;
    z-index:1;
 }
