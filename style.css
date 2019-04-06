@@ -12,13 +12,13 @@ font-family:Lobster;
     font-size:large;
     color:white;
     padding:2.4em;
-    background-color:teal;
+    background-color: hsl(180, 90%, 35%);
 }
 
 body{
     font-family:Lobster;
     color:grey;
-    background-color:teal
+    background: linear-gradient(90deg, red, yellow, rgb(204, 204, 255));
 }
 
 button{
@@ -42,12 +42,15 @@ div{
 
 
 ul {
+    text-align:center;
     font-family:monospace;
     background-color:rgba(0,0,0,0.3);
 } 
 
 li {
-    backgroud-color:pink;
+    text-align:center;
+    backgroud-color:teal;
+    display:inline;
 }
 
 a {
