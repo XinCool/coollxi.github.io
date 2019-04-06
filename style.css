@@ -17,7 +17,7 @@ h1{
 
 body{
     font-family:Lobster;
-    background: linear-gradient(90deg, teal,cyan, hsl(180, 100%, 80%));
+    background: linear-gradient(90deg, red,yellow, hsl(100, 100%, 80%));
 }
 
 button{
@@ -43,12 +43,12 @@ div{
 ul {
     text-align:center;
     font-family:monospace;
-    background-color:rgba(0,0,0,0.3);
+   
 } 
 
 li {
     text-align:center;
-    backgroud-color:teal;
+   
     display:inline;
 }
 
