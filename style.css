@@ -18,6 +18,7 @@ font-family:Lobster;
 body{
     font-family:Lobster;
     color:grey;
+    background-color:teal
 }
 
 button{
@@ -67,24 +68,24 @@ a {
 
 
 .cyan-block{
-    background-color:cyan;
+    background-color:hsl(180,100%,80%);
     z-index:2;
      
     
 }
 
 .orange-block{
-    background-color:orange;
+    background-color:hsl(100,100%,80%);
    
   
 }
 
 .casual-block{
-    background-color:rgba(0,0,100,0.1);
+    background-color:hsl(360,100%,80%);
     
 }
 
 .teal-block{
-    background-color:teal;
+    background-color:hsl(240,100%,80%);
    z-index:1;
 }
