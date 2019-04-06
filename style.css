@@ -60,20 +60,20 @@ a {
 
 
 .cyan-block{
-    background-color:#00FFF0;
+    background-color:#0000F0;
     z-index:2;
      
     
 }
 
 .orange-block{
-    background-color:#FFF7F0;
+    background-color:#FF0F00;
    
   
 }
 
 .casual-block{
-    background-color:rgba(0,0,50,0.1);
+    background-color:rgba(0,0,200,0.1);
     
 }
 
