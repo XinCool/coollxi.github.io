@@ -39,20 +39,6 @@ div.box{
     box-shodow:0 10px 20px rgba(0,0,0,0.19),0 6px 6px rgba(0,0,0,0.23);
 }
 
-div.radius1{
-    box-shadow:25px 10px 0px 0px white;
-    left:20%;
-}
-
-div.radius2{
-    box-shadow:25px 10px 0px 0px white;
-    transform:scale(1.2);
-    left:80%;
-}
-
-div.radius:hover{
-    transform:scale(1.5);
-}
 
 #left{
     float:left;
