@@ -38,20 +38,38 @@ div.box{
     border:thin gray solid;
     box-shodow:0 10px 20px rgba(0,0,0,0.19),0 6px 6px rgba(0,0,0,0.23);
 }
-  #rect {
-    animation-name: rainbow;
+
+#rect {
+  animation-name: rainbow;
+  animation-duration: 4s;
+}
+
+@keyframes rainbow {
+  0% {
+    background-color: blue;
+    top: 0px;
+    left:0px;
+  }
+  50% {
+    background-color: green;
+    top: 50px;
+    left:25%;
+  }
+  100% {
+    background-color: yellow;
+    top: 0px;
+    left:-25%;
+  }
+}
+  #button {
+    animation-name: button;
     animation-duration: 4s;
+      animation-fill-mode:forward;
   }
   
-  @keyframes rainbow{
-    0%{
-      background-color:blue;
-    }
-    50%{
-      background-color:green;
-    }
+  @keyframes button{
     100%{
-      background-color:yellow;
+      background-color:red;
     }
   }
 
