@@ -17,7 +17,7 @@ h1{
 
 body{
     font-family:Lobster;
-    background: linear-gradient(90deg, red, yellow, rgb(204, 204, 255));
+    background: linear-gradient(90deg, teal,cyan, hsl(180, 100%, 80%));
 }
 
 button{
