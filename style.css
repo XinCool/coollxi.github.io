@@ -24,7 +24,7 @@ body{
     background: linear-gradient(90deg,teal, white);
 }
 
-button{
+button:hover{
     background-color:yellow;
 }
 
